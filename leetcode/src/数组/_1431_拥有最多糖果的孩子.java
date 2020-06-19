@@ -34,13 +34,13 @@ public class _1431_拥有最多糖果的孩子 {
         List<Boolean> list = new LinkedList<>();
         Integer maxNumber = Arrays.stream(candies).max().getAsInt();
 
-        for (int num:candies) {
-            if (candies[i] + extraCandies >= maxNumber){
-                list.add(true);
-            }else {
-                list.add(false);
-            }
-        }
+//        for (int num:candies) {
+//            if (candies[i] + extraCandies >= maxNumber){
+//                list.add(true);
+//            }else {
+//                list.add(false);
+//            }
+//        }
 
         return list;
     }
