@@ -4,9 +4,10 @@ package 二叉树;
  * created by wagn on 2020/5/13
  */
 public class TreeNode {
-      int val;
-      TreeNode left;
-      TreeNode right;
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
+
       TreeNode() {}
       TreeNode(int val) { this.val = val; }
       TreeNode(int val, TreeNode left, TreeNode right) {
