@@ -6,7 +6,7 @@ package 剑指offer;
  * 求 1+2+...+n ，要求不能使用乘除法、for、while、if、else、switch、case等关键字及条件判断语句（A?B:C）。
  * created by wagn on 2020/6/2
  */
-public class 面试题64 {
+public class _64_求123n之和 {
 
     public static void main(String[] args) {
         sumNums(6);

@@ -5,7 +5,7 @@ package 剑指offer;
  * https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
  * created by wagn on 2020/7/22
  */
-public class _剑指Offer11_旋转数组的最小数字 {
+public class _11_旋转数组的最小数字 {
     public static void main(String[] args) {
 
     }

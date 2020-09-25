@@ -8,7 +8,7 @@ import java.util.List;
  * https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/
  * created by wagn on 2020/6/9
  */
-public class _面试题46_把数字翻译成字符串 {
+public class _46_把数字翻译成字符串 {
 
     public static void main(String[] args) {
         translateNum(12344);

@@ -9,7 +9,7 @@ package 数学;
 public class 剑指_Offer_17_打印从1到最大的n位数 {
 
     public static void main(String[] args) {
-        System.out.printf(printNumbers(2));
+//        System.out.printf(printNumbers(2));
     }
     public  int[] printNumbers(int n) {
         int max = (int) Math.pow(10,n) - 1;
